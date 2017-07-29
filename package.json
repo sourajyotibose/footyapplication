@@ -1,0 +1,37 @@
+{
+  "name": "angularfootyapp",
+  "version": "1.0.0",
+  "description": "Application to create football meetings",
+  "main": "app.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourajyotibose/footyapplication.git"
+  },
+  "keywords": [
+    "football",
+    "app"
+  ],
+  "author": "Sourajyoti Bose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourajyotibose/footyapplication/issues"
+  },
+  "homepage": "https://github.com/sourajyotibose/footyapplication#readme",
+  "dependencies": {
+    "angular": "1.5.5",
+    "angular-animate": "1.5.5",
+    "angular-aria": "1.5.5",
+    "angular-material": "1.1.0",
+    "angular-messages": "1.5.5",
+    "angular-resource": "1.5.5",
+    "angular-route": "1.5.5",
+    "angularfire": "^2.3.0",
+    "body-parser": "^1.17.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1"
+  }
+}
